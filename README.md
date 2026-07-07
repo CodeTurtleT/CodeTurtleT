@@ -1,8 +1,3 @@
-
-# Trinity Hopp
-
-
-
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,7B68EE,8A2BE2&height=220&section=header&text=Trinity%20Hopp&fontSize=42&fontColor=ffffff"/>
