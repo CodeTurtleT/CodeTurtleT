@@ -39,6 +39,35 @@ EEG P300 forensic decision support using signal processing.
 
 </details>
 
+## 🚀 Hackathon Projects
+Klick dich durch meine Hackathon-Projekte – jedes mit Live-Einblick und Fotos:
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="LINK_ZU_PROJEKT_1">
+        <img src="URL_ZU_DEM_FOTO_1.png" width="100%" alt="Projekt 1"/><br/>
+        <b>Projekt-Name 1</b>
+      </a><br/>
+      Kurzbeschreibung oder Event-Name
+    </td>
+    <td align="center" width="33%">
+      <a href="LINK_ZU_PROJEKT_2">
+        <img src="URL_ZU_DEM_FOTO_2.png" width="100%" alt="Projekt 2"/><br/>
+        <b>Projekt-Name 2</b>
+      </a><br/>
+      Kurzbeschreibung oder Event-Name
+    </td>
+    <td align="center" width="33%">
+      <a href="LINK_ZU_PROJEKT_3">
+        <img src="URL_ZU_DEM_FOTO_3.png" width="100%" alt="Projekt 3"/><br/>
+        <b>Projekt-Name 3</b>
+      </a><br/>
+      Kurzbeschreibung oder Event-Name
+    </td>
+  </tr>
+</table>
+
 ## Experience
 
 - Student Research Assistant — Fraunhofer IOF
@@ -55,8 +84,7 @@ EEG P300 forensic decision support using signal processing.
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeTurtleT&theme=tokyo-night"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeTurtleT&theme=tokyo-night"/></p>
 
 ```yaml
 Learning:
@@ -70,7 +98,6 @@ OpenTo:
   - Research
   - Software Engineering
   - Open Source
-```
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,7B68EE,8A2BE2&height=120&section=footer"/>
