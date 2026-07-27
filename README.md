@@ -5,45 +5,65 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Physics+Student;Photonics+Researcher;AI+%26+ML+Engineer;Scientific+Software+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Physics+Student;Photonics+Researcher;Scientific+Software+Developer;Open+Source+Contributor"/>
 </p>
 
 ## About
 
-Physics student at Friedrich Schiller University Jena working at Fraunhofer IOF on laser communication, photonics, scientific software and AI-assisted engineering. Interests include photonics, computational physics, quantum technologies, machine learning, signal processing and scientific Python.
+Physics student (B.Sc.) at Friedrich Schiller University Jena, currently writing my Bachelor's thesis at Fraunhofer IOF (Department of Laser Technology) on adaptive optics for free-space laser communication. My work lives at the intersection of optics, simulation, rapid prototyping, and scientific software development.
 
 ## Tech Stack
 
-Python • C++ • Git • Linux • NumPy • SciPy • Pandas • Matplotlib • Qiskit • Arduino • Raspberry Pi • Fusion 360 • Creo • LaTeX
+**Languages & Scientific Computing:** Python (NumPy, SciPy, Pandas, Matplotlib, AOtools) • C++ • LaTeX  
+**Optics & Simulation:** BeamXpert • ImageJ/Fiji • Interferometry • Adaptive Optics  
+**Hardware & Rapid Prototyping:** SLA 3D Printing • Fusion 360 • Creo • Raspberry Pi • Arduino • System Integration  
+**Quantum & Version Control:** Qiskit • Git  
 
 ## Featured Projects
 
 <details>
-<summary><b>Laser-Eye</b></summary>
+<summary><b>Laser-Eye (1st Place Winner — Makerthon 2026)</b></summary>
 
-AI-based laser speckle metrology for material classification. Winner of Makerthon 2026.
-
-</details>
-
-<details>
-<summary><b>TrailAble</b></summary>
-
-Accessibility assistant using Claude, ElevenLabs and Scandit SDK.
+AI-based laser speckle metrology tool for automated material classification. Built on a Raspberry Pi setup with custom 3D-printed hardware.  
+🔗 [Repository](https://github.com/CodeTurtleT/laser-eye-makerthon)
 
 </details>
 
 <details>
-<summary><b>Amplitude</b></summary>
+<summary><b>TrailAble (Her Summer Hack Zurich 2026)</b></summary>
 
-EEG P300 forensic decision support using signal processing.
+AI-driven accessibility in-store concierge optimizing outdoor retail. Integrates Scandit SparkScan, Claude LLM, and ElevenLabs voice guidance.  
+🔗 [Repository](https://github.com/CodeTurtleT)
 
 </details>
+
+<details>
+<summary><b>Amplitude (HackXplore Hackathon 2026 — ZEISS Challenge)</b></summary>
+
+Forensic EEG-based investigative decision-support tool utilizing P300 brainwave signal processing and artifact rejection.  
+🔗 [Repository](https://github.com/CodeTurtleT)
+
+</details>
+
+<details>
+<summary><b>Tensor Networks & Quantum Algorithms (Quantum Ideas Factory 2026)</b></summary>
+
+Simulation of Grover's search algorithm, Quantum Fourier Transform, and quantum entanglement structures using Matrix Product States in Python & Qiskit.  
+🔗 [Repository](https://github.com/CodeTurtleT/Quantum-ideas-factory-tensor-networks)
+
+</details>
+
+## Upcoming & Recent Research Schools
+
+- 🇫🇷 **PLAS@PAR Summer School** (Sorbonne Université / Roscoff, Aug 2026) — *Plasmas, high-power lasers, and advanced spectroscopy diagnostics.*
+- 🇩🇪 **Quantum Hackathon** (Fraunhofer IOF, Aug 2026) — *Quantum communication & photonic quantum hacking scenarios.*
+- 🇪🇸 **MINDLAB Research Summer School** (ICFO Barcelona, Jul 2026) — *Neurophotonics, optical tweezers microrheology, and in vivo mechanotransduction.*
 
 ## Experience
 
-- Student Research Assistant — Fraunhofer IOF
-- Bachelor Thesis — Laser Communication
-- Teaching Assistant — University of Jena
+- **Bachelor Thesis Student** — Fraunhofer IOF (Dept. Laser Technology) *(Adaptive Optics & Beam Divergence Control)*
+- **Student Research Assistant** — Fraunhofer IOF (Dept. Optical & Mechanical System Design) *(SLA 3D Printing & Precision Optics)*
+- **Student Teaching Assistant** — University of Jena *(Thermodynamics Physics Lab)*
 
 ## GitHub Stats
 
@@ -59,14 +79,13 @@ EEG P300 forensic decision support using signal processing.
 
 ```yaml
 Learning:
-  - Machine Learning
-  - Computer Vision
-  - Quantum Computing
+  - Advanced Photonics & Optical Systems
+  - Plasma Physics & Laser-Matter Interactions
+  - Quantum Communication & Cryptography
 Building:
-  - Laser Communication Systems
-  - AI Applications
+  - Adaptive Optics Hardware Prototypes
+  - Free-Space Laser Communication Systems
 OpenTo:
-  - Research
-  - Software Engineering
-  - Open Source
-```
+  - Deep-Tech Research
+  - Scientific Software Engineering
+  - Open Source Collaboration
