@@ -10,14 +10,14 @@
 
 ## About
 
-Physics student (B.Sc.) at Friedrich Schiller University Jena, currently writing my Bachelor's thesis at Fraunhofer IOF (Department of Laser Technology) on adaptive optics for free-space laser communication. Starting my Master's studies in Photonics / Applied Physics in October 2026. My work lives at the intersection of optics, simulation, rapid prototyping, and scientific software development.
+Incoming M.Sc. Applied Physics student at the Technical University of Munich (starting October 2026), with a B.Sc. in Physics from Friedrich Schiller University Jena. Currently writing my Bachelor's thesis at Fraunhofer IOF (Department of Laser Technology) on adaptive optics for free-space laser communication. My work lives at the intersection of optics, simulation, rapid prototyping, and scientific software development.
 
 ## Tech Stack
 
 **Languages & Scientific Computing:** Python (NumPy, SciPy, Pandas, Matplotlib, AOtools) • C++ • LaTeX  
 **Optics & Simulation:** BeamXpert • ImageJ/Fiji • Interferometry • Adaptive Optics  
 **Hardware & Rapid Prototyping:** SLA 3D Printing • Fusion 360 • Creo • Raspberry Pi • Arduino • System Integration  
-**Quantum & Version Control:** Qiskit • Git  
+**Quantum & Version Control:** Qiskit • Git 
 
 ## Featured Projects
 
@@ -40,10 +40,10 @@ Simulation of Grover's search algorithm, Quantum Fourier Transform, and quantum 
 </details>
 
 <details>
-<summary><b>Autocomply (Prize Awarded — Hack-Nation Hackathon 2026)</b></summary>
+<summary><b>Autocomply (Hack-Nation Hackathon 2026)</b></summary>
 
 Hybrid RegTech platform integrating LLM-based regulatory data parsing with a deterministic compliance verification engine for vehicle homologation.  
-**Tech Stack:** Python, LLMs, Software Architecture, Regulatory Compliance Engines  
+**Tech Stack:** Python, LLMs, Software Architecture, Regulatory Compliance Engines 
 
 </details>
 
@@ -51,7 +51,7 @@ Hybrid RegTech platform integrating LLM-based regulatory data parsing with a det
 <summary><b>TrailAble (Her Summer Hack Zurich 2026)</b></summary>
 
 AI-driven accessibility in-store concierge optimizing outdoor retail. Integrates Scandit SparkScan, Claude LLM, and ElevenLabs voice guidance.  
-**Tech Stack:** Lovable Frontend, Claude API (Agentic Logic), ElevenLabs (TTS), Scandit SDK  
+**Tech Stack:** Lovable Frontend, Claude API (Agentic Logic), ElevenLabs (TTS), Scandit SDK 
 
 </details>
 
@@ -59,14 +59,14 @@ AI-driven accessibility in-store concierge optimizing outdoor retail. Integrates
 <summary><b>Amplitude (HackXplore Hackathon 2026 — ZEISS Challenge)</b></summary>
 
 Forensic EEG-based investigative decision-support tool utilizing P300 brainwave signal processing and artifact rejection.  
-**Tech Stack:** Unicorn Hybrid Black EEG, Python (NumPy, SciPy), Signal Processing  
+**Tech Stack:** Unicorn Hybrid Black EEG, Python (NumPy, SciPy), Signal Processing 
 
 </details>
 
-## Upcoming & Recent Research Schools/ Tech Events
+## Recent Research Schools & Tech Events
 
+- 🏆 **Quantum Hackathon** (Fraunhofer IOF, Aug 2026 — 1st Place with Team GGK) — *Quantum communication, QKD protocols & photonic quantum hacking scenarios.*
 - 🇫🇷 **PLAS@PAR Summer School** (Sorbonne Université / Roscoff, Aug 2026) — *Plasmas, high-power lasers, and advanced spectroscopy diagnostics.*
-- 🇩🇪 **Quantum Hackathon** (Fraunhofer IOF, Aug 2026) — *Quantum communication & photonic quantum hacking scenarios.*
 - 🇪🇸 **MINDLAB Research Summer School** (ICFO Barcelona, Jul 2026) — *Neurophotonics, optical tweezers microrheology, and in vivo mechanotransduction.*
 
 ## Experience
