@@ -63,17 +63,17 @@ Forensic EEG-based investigative decision-support tool utilizing P300 brainwave 
 
 </details>
 
+## Research Schools & Tech Events
+
+- 🇩🇪 **Quantum Hackathon** (Fraunhofer IOF, Aug 2026) — *Quantum communication, QKD protocols & photonic quantum hacking scenarios (1st Place with Team GGK).*
+- 🇫🇷 **PLAS@PAR Summer School** (Sorbonne Université / Roscoff, Aug 2026 — Upcoming) — *Plasmas, high-power lasers, and advanced spectroscopy diagnostics.*
+- 🇪🇸 **MINDLAB Research Summer School** (ICFO Barcelona, Jul 2026) — *Neurophotonics, optical tweezers microrheology, and in vivo mechanotransduction.*
+- 
 ## Recent Research Schools & Tech Events
 
 - 🏆 **Quantum Hackathon** (Fraunhofer IOF, Aug 2026 — 1st Place with Team GGK) — *Quantum communication, QKD protocols & photonic quantum hacking scenarios.*
 - 🇫🇷 **PLAS@PAR Summer School** (Sorbonne Université / Roscoff, Aug 2026) — *Plasmas, high-power lasers, and advanced spectroscopy diagnostics.*
 - 🇪🇸 **MINDLAB Research Summer School** (ICFO Barcelona, Jul 2026) — *Neurophotonics, optical tweezers microrheology, and in vivo mechanotransduction.*
-
-## Experience
-
-- **Bachelor Thesis Student** — Fraunhofer IOF (Dept. Laser Technology) *(Adaptive Optics & Beam Divergence Control)*
-- **Student Research Assistant** — Fraunhofer IOF (Dept. Optical & Mechanical System Design) *(SLA 3D Printing & Precision Optics)*
-- **Student Teaching Assistant** — University of Jena *(Thermodynamics Physics Lab)*
 
 ## GitHub Stats
 
