@@ -10,7 +10,7 @@
 
 ## About
 
-Incoming M.Sc. Applied Physics student at the Technical University of Munich (starting October 2026), with a B.Sc. in Physics from Friedrich Schiller University Jena. Currently writing my Bachelor's thesis at Fraunhofer IOF (Department of Laser Technology) on adaptive optics for free-space laser communication. My work lives at the intersection of optics, simulation, rapid prototyping, and scientific software development.
+M.Sc. Applied Physics student at the Technical University of Munich, with a B.Sc. in Physics from Friedrich Schiller University Jena. Wrote my Bachelor's thesis at Fraunhofer IOF (Department of Laser Technology) on adaptive optics for free-space laser communication. My work lives at the intersection of optics, simulation, rapid prototyping, and scientific software development. Now working at the start-up munich quantum instruments as a working student in photonics.
 
 ## Tech Stack
 
