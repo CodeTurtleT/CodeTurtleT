@@ -89,13 +89,14 @@ Forensic EEG-based investigative decision-support tool utilizing P300 brainwave 
 
 ```yaml
 Learning:
-  - Advanced Photonics & Optical Systems
-  - Plasma Physics & Laser-Matter Interactions
-  - Quantum Communication & Cryptography
+  - Machine Learning
+  - Computer Vision
+  - Quantum Computing
 Building:
-  - Adaptive Optics Hardware Prototypes
-  - Free-Space Laser Communication Systems
+  - Laser Communication Systems
+  - AI Applications
 OpenTo:
-  - Deep-Tech Research
-  - Scientific Software Engineering
-  - Open Source Collaboration
+  - Research
+  - Software Engineering
+  - Open Source
+```
