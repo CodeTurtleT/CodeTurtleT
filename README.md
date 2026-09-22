@@ -78,12 +78,15 @@ Forensic EEG-based investigative decision-support tool utilizing P300 brainwave 
 ## GitHub Stats
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=CodeTurtleT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- Alternative für github-readme-stats -->
+  <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=CodeTurtleT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- Funktioniert weiterhin -->
   <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeTurtleT&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeTurtleT&theme=tokyo-night" alt="Activity Graph" />
+  <!-- Alternative für activity-graph -->
+  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=CodeTurtleT&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ```yaml
