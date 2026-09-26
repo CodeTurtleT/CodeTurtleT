@@ -1,11 +1,9 @@
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,7B68EE,8A2BE2&height=220&section=header&text=Trinity%20Hopp&fontSize=42&fontColor=ffffff"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,7B68EE,8A2BE2&height=220&section=header&text=Trinity%20Hopp&fontSize=42&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Applied+&+Engineering+Physics+Student:;Photonics+&+Hardware Engineer;Photonics+Researcher;Scientific+Software+Developer;Open+Source+Contributor;Optomechanical+Prototyper;Computational+Physicist;AI-Driven+Metrology+Prototyper"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Applied+%26+Engineering+Physics+Student;Photonics+%26+Hardware+Engineer;Photonics+Researcher;Scientific+Software+Developer;Open+Source+Contributor;Optomechanical+Prototyper;Computational+Physicist;AI-Driven+Metrology+Prototyper"/>
 </p>
 
 ## About
