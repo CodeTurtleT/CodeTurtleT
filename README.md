@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Physics+Student;Photonics+Researcher;Scientific+Software+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Applied+&+Engineering+Physics+Student:;Photonics+&+Hardware Engineer;Photonics+Researcher;Scientific+Software+Developer;Open+Source+Contributor;Optomechanical+Prototyper;Computational+Physicist;AI-Driven+Metrology+Prototyper"/>
 </p>
 
 ## About
